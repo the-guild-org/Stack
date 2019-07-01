@@ -34,7 +34,7 @@ A fully-featured, production ready caching GraphQL client for Angular and every 
 
 Application State Management done with GraphQL
 
-### [spencil-apollo](https://github.com/ardatan/stencil-apollo)
+### [stencil-apollo](https://github.com/ardatan/stencil-apollo)
 
 Stencil Apollo Library
 
