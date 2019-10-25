@@ -18,6 +18,9 @@ The best way to create REST APIs
 
 A set of utils for faster development of GraphQL tools
 
+### [graphql-config](https://github.com/kamilkisiela/graphql-config)
+One configuration for all your GraphQL tools (supported by most tools, editors & IDEs) 
+
 ### [merge-graphql-schemas](https://github.com/urigo/merge-graphql-schemas)
 
 A utility library to facilitate merging of modularized GraphQL schemas and resolver objects
