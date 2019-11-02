@@ -10,6 +10,10 @@ Enterprise Grade Tooling For Your GraphQL Server
 
 Tooling for GraphQL. Compare schemas, validate documents, find breaking changes, find similar types, schema coverage
 
+### [GraphQL CLI](https://github.com/urigo/graphql-cli)
+
+Command line tool for common GraphQL development workflows
+
 ### [Sofa](https://github.com/Urigo/sofa)
 
 The best way to create REST APIs
