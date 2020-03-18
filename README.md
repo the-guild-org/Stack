@@ -33,6 +33,10 @@ A utility library to facilitate merging of modularized GraphQL schemas and resol
 
 A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 
+### [graphql-import](https://github.com/ardatan/graphql-import)
+
+Import & export definitions in GraphQL SDL.
+
 ### [Apollo Angular](https://github.com/apollographql/apollo-angular)
 
 A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server
