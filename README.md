@@ -22,6 +22,10 @@ Command line tool for common GraphQL development workflows
 
 The best way to create REST APIs
 
+### [graphql-tools](https://github.com/ardatan/graphql-tools)
+
+A set of utilities to build your JavaScript GraphQL schema in a concise and powerful way
+
 ### [graphql-toolkit](https://github.com/ardatan/graphql-toolkit)
 
 A set of utils for faster development of GraphQL tools
