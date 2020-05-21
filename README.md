@@ -49,10 +49,6 @@ Application State Management done with GraphQL
 
 Stencil Apollo Library
 
-### [GraphQL Tag Pluck](https://github.com/DAB0mB/graphql-tag-pluck)
-
-Pluck graphql-tag template literals
-
 ### [WhatsApp Clone Tutorial](https://github.com/Urigo/WhatsApp-Clone-Tutorial)
 
 An open-source full-stack example app using React (Hooks & Suspense), Apollo, TypeScript, GraphQL-Subscriptions/Codegen/Modules, PostgreSQL, Styled Components and Material UI
