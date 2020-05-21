@@ -22,20 +22,12 @@ Command line tool for common GraphQL development workflows
 
 The best way to create REST APIs
 
-### [graphql-tools](https://github.com/ardatan/graphql-tools)
+### [GraphQL Tools](https://github.com/ardatan/graphql-tools)
 
 A set of utilities to build your JavaScript GraphQL schema in a concise and powerful way
 
-### [graphql-toolkit](https://github.com/ardatan/graphql-toolkit)
-
-A set of utils for faster development of GraphQL tools
-
 ### [graphql-config](https://github.com/kamilkisiela/graphql-config)
 One configuration for all your GraphQL tools (supported by most tools, editors & IDEs) 
-
-### [merge-graphql-schemas](https://github.com/urigo/merge-graphql-schemas)
-
-A utility library to facilitate merging of modularized GraphQL schemas and resolver objects
 
 ### [graphql-scalars](https://github.com/Urigo/graphql-scalars/)
 
