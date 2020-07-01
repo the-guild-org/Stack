@@ -1,3 +1,5 @@
+# The completel list moved [here](https://the-guild.dev/open-source)
+
 ### [GraphQL Code Generator](https://graphql-code-generator.com)
 
 GraphQL code generator with flexible support for custom templates
