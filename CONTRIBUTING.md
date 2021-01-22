@@ -97,17 +97,17 @@ We make use of [Prettier](https://prettier.io/) for maintaining all the formatti
 
 As we have mentioned [here](https://the-guild.dev/about-us), these are the different ways in which you can contribute for The Guild and join our community as a whole
 
-- Spread the word about us - Tell people about our libraries and our services, create guides and tutorials
+- Spread the word [about us](https://the-guild.dev/about-us) - Tell people about our libraries and our services, create guides and tutorials
 - Keep all your dependencies up to date with the latest versions. It would help you and also help us with good feedback
 - Answer and help others on [Github Issues](https://github.com/the-guild-org), [Discord](https://discordapp.com/invite/xud7bH9), Stack Overflow, Twitter, [Reddit](https://www.reddit.com/r/graphql/)
-Contribute to our docs and also to graphql.org
-Create failing tests and reproducible projects
-Improve the WhatsApp clone tutorial
-Schedule a free meeting for architectural review - we love to learn from you and hopefully we can give valuable advice back
-Hire us to work with you - we’ll be that extra nice member on your team
-Get a training with us
-Join us! - Are you maintaining a popular open source library and thinking of how to spend more time doing just that?
-Just contact us directly and tell us your story
+- Contribute to our docs and also to [graphql.org](https://graphql.org/)
+- Create failing tests and reproducible projects
+- Improve the [WhatsApp clone tutorial](https://github.com/Urigo/WhatsApp-Clone-Tutorial)
+- Schedule a [free meeting](https://the-guild.dev/contact) for architectural review - we love to learn from you and hopefully we can give valuable advice back
+- [Hire us](https://the-guild.dev/contact) to work with you - we’ll be that extra nice member on your team
+- Get a training with us
+- [Join us](https://github.com/orgs/the-guild-org/people)! - Are you maintaining a popular open source library and thinking of how to spend more time doing just that?
+- Just [contact us](https://the-guild.dev/contact) directly and tell us your story
 
 ## Some helpful links
 
