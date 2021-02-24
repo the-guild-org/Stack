@@ -8,6 +8,24 @@ This document will discuss the workflow, processes and conventions we follow at 
 
 The Guild at its core is a group of open source developers formed to bring about a way for sustainable open source development solving real issues for real people. You can learn more about us and how we do it [here](https://the-guild.dev/about-us). Another guideline we follow is Individuality and responsibility. This is the reason that all the projects as part of The Guild are hosted under a person's name and not an organization ([for convenience, here is a list of all of the projects we actively maintain](https://the-guild.dev/open-source)).
 
+## Contributor Videos
+
+- Introduction to the Guild, a typical contributor workflow along with the important tools being used by all our repositories:
+
+    [https://drive.google.com/file/d/1tzEp3fxS1i_kkweg0tcoJI923F7uNYgo/view](https://drive.google.com/file/d/1tzEp3fxS1i_kkweg0tcoJI923F7uNYgo/view)
+
+- Working with Open source projects, identifying bugs, figuring out possible fixes and testing them:
+
+    [https://drive.google.com/file/d/1mW-FvS4vCCd0sfeFz083wO60WcgLsy3C/view](https://drive.google.com/file/d/1mW-FvS4vCCd0sfeFz083wO60WcgLsy3C/view)
+
+- Making the fix, Running and validating existing test cases, Sending a Pull request to the upstream repository:
+
+    [https://drive.google.com/file/d/1ijYH9IFVQpclqeC39Xa1hzN7xWkAZ1mg/view](https://drive.google.com/file/d/1ijYH9IFVQpclqeC39Xa1hzN7xWkAZ1mg/view)
+
+- Reviewing and addressing the suggestions by the maintainers and making the changes, Referencing a local repository instead of modifying `node_modules` and GraphQL resolutions:
+
+    [https://drive.google.com/file/d/1xp-9aPrAUv6g0ShXvxHq4PIS_dyz2mjT/view](https://drive.google.com/file/d/1xp-9aPrAUv6g0ShXvxHq4PIS_dyz2mjT/view)
+
 ### Code Of Conduct
 
 Please help us keep all our projects open and inclusive. Kindly follow our [Code of Conduct](./CODE_OF_CONDUCT.md) derived from [Contributor Covenant](https://www.contributor-covenant.org/) to keep the ecosystem healthy and friendly for all.
