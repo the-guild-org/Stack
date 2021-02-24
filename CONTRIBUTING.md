@@ -12,19 +12,19 @@ The Guild at its core is a group of open source developers formed to bring about
 
 - Introduction to the Guild, a typical contributor workflow along with the important tools being used by all our repositories:
 
-    https://drive.google.com/file/d/1tzEp3fxS1i_kkweg0tcoJI923F7uNYgo/view
+    [https://drive.google.com/file/d/1tzEp3fxS1i_kkweg0tcoJI923F7uNYgo/view](https://drive.google.com/file/d/1tzEp3fxS1i_kkweg0tcoJI923F7uNYgo/view)
 
 - Working with Open source projects, identifying bugs, figuring out possible fixes and testing them:
 
-    https://drive.google.com/file/d/1mW-FvS4vCCd0sfeFz083wO60WcgLsy3C/view
+    [https://drive.google.com/file/d/1mW-FvS4vCCd0sfeFz083wO60WcgLsy3C/view](https://drive.google.com/file/d/1mW-FvS4vCCd0sfeFz083wO60WcgLsy3C/view)
 
 - Making the fix, Running and validating existing test cases, Sending a Pull request to the upstream repository:
 
-    https://drive.google.com/file/d/1ijYH9IFVQpclqeC39Xa1hzN7xWkAZ1mg/view
+    [https://drive.google.com/file/d/1ijYH9IFVQpclqeC39Xa1hzN7xWkAZ1mg/view](https://drive.google.com/file/d/1ijYH9IFVQpclqeC39Xa1hzN7xWkAZ1mg/view)
 
 - Reviewing and addressing the suggestions by the maintainers and making the changes, Referencing a local repository instead of modifying `node_modules` and GraphQL resolutions:
 
-    https://drive.google.com/file/d/1xp-9aPrAUv6g0ShXvxHq4PIS_dyz2mjT/view
+    [https://drive.google.com/file/d/1xp-9aPrAUv6g0ShXvxHq4PIS_dyz2mjT/view](https://drive.google.com/file/d/1xp-9aPrAUv6g0ShXvxHq4PIS_dyz2mjT/view)
 
 ### Code Of Conduct
 
