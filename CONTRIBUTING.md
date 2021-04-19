@@ -62,7 +62,7 @@ Each step has an assosiated label to it on all of The Guild's repositories so yo
 4. `stage/4-pull-request` - Once you are done, change the status of the PR to [ready for review](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/changing-the-stage-of-a-pull-request) after making sure that all your changes are covered by appropriate tests as discussed:
      1. Update the docs/README with all the changes as necessary keeping [SEO](https://searchengineland.com/guide/what-is-seo) in mind. The README should have the relevant terms the users would use typically in a Google search so that it is easily discoverable.
      2. Fix any code sanity issues like linting, indentation, structure, duplication and so on.
-     3. Use [Changesets Release Action](https://github.com/changesets/action) to create a changeset for the PR
+     3. Use the changeset cli for creating a changeset for the PR as requested by the [Changesets Release Action](https://github.com/changesets/action)
      4. Update the config files to reflect new versions of the packages to facilitate the build tool for releasing new versions once the PR is merged
      5. Remove the draft label and request the relevant maintainers for reviews
      6. After our review, all changes are made as per the feedback from the code reviews
