@@ -32,39 +32,43 @@ Please help us keep all our projects open and inclusive. Kindly follow our [Code
 
 ## A Typical Contributor Workflow
 
-This is how a typical open source contributor workflow looks like, we count on you to help us advance issues to the next step and by that bringing the solution faster:
+This is how a typical open source contributor workflow looks like, we count on you to help us advance issues to the next step and by that bringing the solution faster.
+Each step has an assosiated label to it on all of The Guild's repositories so you could see the current stage of each issue:
 
-1. Start with any of [our open source projects](https://the-guild.dev/open-source) as an end user, following the instructions as provided in the relevant docs
-2. You get into trouble with the existing implementation or have an idea for a possible enhancement.
-3. When you face an issue, make sure that you **update to the latest version of the library.** The issue might have already been fixed.
-4. Start **searching the web** (Google, Github, Stackoverflow, Docs, etc.) to see if you can find similar issues or solutions online
-5. In case you've found a solution, try to remember the breadcrumbs of all the different websites that lead you to the solution and see if you can improve and **make that path shorter and easier for others that would look for the same thing:** 
-    1. That can include improving the docs, upvoting answers on Stack Overflow, commenting on a blog post or forum, etc)
-    2. If you would like to contribute to the docs of a respective project, all you need to do is edit the markdown files in `website/docs` folder within the respective repository or use `Edit this page` link at the bottom of every page which will bring you to the online Github editor directly.
-8. If you couldn't find a solution in the previous step, file an issue in Github detailing the use case, details in the form of a user story for further discussions. If your problem has already been reported by someone else and is unsolved, make sure that you upvote the issue so that it comes to our attention and try to help move it into the next step of the process. If your solution is a potential new feature, do add information on how an end user might benefit from the feature and what problem you aim to address followed by the approach you are going to take. This can help in having productive discussions around the same and finalize on the agenda for the PR.
-9. **The best way to make progress on an issue fast, is to help us advancing the issue further down the next steps!** Each step you could advance the issue in, would significantly shorten the time for us to solve these
-10.  **Creating a reproduction** can really help us in identifying the issues you face in our environment so that we work on solving them. You can create a minimal reproduction by following these steps:
+
+
+0. `stage/0-issue-prerequisite` - Make sure you've done all of the steps on this stage before opening an issue:
+    1. Start with any of [our open source projects](https://the-guild.dev/open-source) as an end user, following the instructions as provided in the relevant docs
+    2. You get into trouble with the existing implementation or have an idea for a possible enhancement.
+    3. When you face an issue, make sure that you **update to the latest version of the library.** The issue might have already been fixed.
+    4. Start **searching the web** (Google, Github, Stackoverflow, Docs, etc.) to see if you can find similar issues or solutions online
+    5. In case you've found a solution, try to remember the breadcrumbs of all the different websites that lead you to the solution and see if you can improve and **make that path shorter and easier for others that would look for the same thing:** 
+        1. That can include improving the docs, upvoting answers on Stack Overflow, commenting on a blog post or forum, etc)
+        2. If you would like to contribute to the docs of a respective project, all you need to do is edit the markdown files in `website/docs` folder within the respective repository or use `Edit this page` link at the bottom of every page which will bring you to the online Github editor directly.
+    8. If you couldn't find a solution in the previous step, file an issue in Github detailing the use case, details in the form of a user story for further discussions. If your problem has already been reported by someone else and is unsolved, make sure that you upvote the issue so that it comes to our attention and try to help move it into the next step of the process. If your solution is a potential new feature, do add information on how an end user might benefit from the feature and what problem you aim to address followed by the approach you are going to take. This can help in having productive discussions around the same and finalize on the agenda for the PR.
+    9. **The best way to make progress on an issue fast, is to help us advancing the issue further down the next steps!** Each step you could advance the issue in, would significantly shorten the time for us to solve these
+1.  `stage/1-reproduction` - **Creating a reproduction** can really help us in identifying the issues you face in our environment so that we work on solving them. You can create a minimal reproduction by following these steps:
     1. Create a sample repo on Github
     2. Demonstrate the problem, and only the problem. Remove unnecessary dependencies, code, packages and so on which are not related to the issue.
     3. Install all your dependencies related to the problem in `package.json` file if it doesn't exist. We should be able to do a fresh clone of it, run it on our end and be able to reproduce the problem immediately.
     4. Kindly provide instructions if any in the repository along with expected and actual behavior and a link back to the issue and any instructions/steps to running the repro locally. 
-11. The next step after a reproduction is adding **failing tests** inside the library and this can [really add confidence](https://kentcdodds.com/blog/make-your-test-fail) on the codebase. Follow the instructions (and videos) on how to clone the repo, run tests locally, find a new case that covers your scenario, make sure it fails and submit it as a pull request.
-12. The next step is to try to create the solution! Start working on all the action items one at a time following a typical Git workflow.
+2. `stage/2-failing-test` - The next step after a reproduction is adding **failing tests** inside the library and this can [really add confidence](https://kentcdodds.com/blog/make-your-test-fail) on the codebase. Follow the instructions (and videos) on how to clone the repo, run tests locally, find a new case that covers your scenario, make sure it fails and submit it as a pull request.
+3. `stage/3-local-solution` - The next step is to try to create the solution! Start working on all the action items one at a time following a typical Git workflow.
      1. [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
      2. [Clone it](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
      3. Work on the action items by making all the changes as needed
      4. [Commits the changes periodically](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project) with appropriate commit messages - We highly recommend starting with a failing test and solving it before doing anything else since that will surface most of the cases it may go wrong. Also, we would recommend keeping the PRs as small as possible just focusing on the main issue which can be easy to review and action upon.
      5. You can already send a [draft PR](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests) with your initial progress to the original repository, even before you solved everything, that would already help us a lot!
-13. Once you are done, change the status of the PR to [ready for review](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/changing-the-stage-of-a-pull-request) after making sure that all your changes are covered by appropriate tests as discussed:
+4. `stage/4-pull-request` - Once you are done, change the status of the PR to [ready for review](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/changing-the-stage-of-a-pull-request) after making sure that all your changes are covered by appropriate tests as discussed:
      1. Update the docs/README with all the changes as necessary keeping [SEO](https://searchengineland.com/guide/what-is-seo) in mind. The README should have the relevant terms the users would use typically in a Google search so that it is easily discoverable.
      2. Fix any code sanity issues like linting, indentation, structure, duplication and so on.
      3. Use [Changesets Release Action](https://github.com/changesets/action) to create a changeset for the PR
      4. Update the config files to reflect new versions of the packages to facilitate the build tool for releasing new versions once the PR is merged
      5. Remove the draft label and request the relevant maintainers for reviews
-14. After our review, all changes are made as per the feedback from the code reviews
-15. Once all changes have been made, a final review is done, the code is merged and released to the alpha channel for testing
-16. A final level of testing is done using the alpha version of the packages as released. If there are issues, new PRs are made to fix the issue (same process applies).
-17. There is a periodic or manual release of the packages for users to consume with appropriate changelog generated automatically, semver appropriately updated - update to the latest version locally and make sure the issue is solved
+     6. After our review, all changes are made as per the feedback from the code reviews
+     7. Once all changes have been made, a final review is done, the code is merged and released to the alpha channel for testing
+5. `stage/5-alpha-release-testing` - A final level of testing is done using the alpha version of the packages as released. If there are issues, new PRs are made to fix the issue (same process applies).
+6. `stage/6-released` - There is a periodic or manual release of the packages for users to consume with appropriate changelog generated automatically, semver appropriately updated - update to the latest version locally and make sure the issue is solved
 
 ## Ways you can contribute other than writing code
 
