@@ -111,7 +111,7 @@ We make use of [Github Actions](https://github.com/features/actions) for all our
 
 #### The Guild Docs, Documentation
 
-We make use of [the-guild-docs](https://github.com/the-guild-org/the-guild-docs) for conveniently and consistently developing all our project websites and docs which is backed by Jamstack, React and MDX.
+We make use of [the-guild-docs](https://github.com/the-guild-org/the-guild-docs) for conveniently and consistently developing all our project websites and docs which is backed by Next.js, React and MDX.
 
 #### Vercel, Website
 
