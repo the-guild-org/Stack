@@ -109,13 +109,13 @@ We make use of [Yarn](https://yarnpkg.com/) and we recommend that contributors u
 
 We make use of [Github Actions](https://github.com/features/actions) for all our CI/CD pipelines. You might want to check the `.github` folder within the root of every repository if you would like to dig into the pipeline for some reason.
 
-#### Docusaurus, Website
+#### The Guild Docs, Documentation
 
-We make use of [Docusaurus V2](https://v2.docusaurus.io/) for hosting all our project websites and docs which is backed by Jamstack, React and MDX.
+We make use of [the-guild-docs](https://github.com/the-guild-org/the-guild-docs) for conveniently and consistently developing all our project websites and docs which is backed by Next.js, React and MDX.
 
-#### Github Pages, Project website & Documentation
+#### Vercel, Website
 
-We make use of [Github Pages](https://pages.github.com/) for hosting the documentation we have created using Docusaurus. This is deployed automatically using the [Page Deploy Action](https://github.com/JamesIves/github-pages-deploy-action) as you make changes to the website
+We make use of [Vercel](https://vercel.com/) for hosting the documentation we have created using [the-guild-docs](https://github.com/the-guild-org/the-guild-docs). Changes deployed automatically using [Vercel's git deployment](https://vercel.com/docs/concepts/deployments/overview#git).
 
 #### Changesets, Release, Changelogs and Versioning
 
