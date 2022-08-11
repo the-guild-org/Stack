@@ -111,7 +111,7 @@ We make use of [Github Actions](https://github.com/features/actions) for all our
 
 #### The Guild Docs, Documentation
 
-We make use of [the-guild-docs](https://github.com/the-guild-org/the-guild-docs) for conveniently and consistently developing all our project websites and docs which is backed by Next.js, React and MDX.
+We make use of [the-guild-docs](https://github.com/the-guild-org/the-guild-docs) for conveniently and consistently developing all our project websites and docs which is backed by Next.js, React and MDX. It uses [Nextra](https://github.com/shuding/nextra) under the hood which we also help maintain.
 
 #### Vercel, Website
 
@@ -132,6 +132,9 @@ We make use of [ESLint](https://eslint.org/) for maintaining sanity across all o
 #### Prettier, Formatting
 
 We make use of [Prettier](https://prettier.io/) for maintaining all the formatting we need in our codebase. You can find the config setup in the `.prettierrc` file in the root of every repository. We use tools behind the scenes to automatically run it before commits even in case you forget to do it yourself.
+
+#### Shared Config
+Our configs for most of these tools are shared across all of our repos from our [shared config repo](https://github.com/the-guild-org/shared-config/)
 
 
 ## Some helpful links
